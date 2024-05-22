@@ -16,6 +16,6 @@ I began by gathering all the necessary equipment for this project:
 - 🌐 Access to the Internet
 - 📱 Micro USB cable or Charger
 
-## 📋 Setup
+## 📋 Pre-Setup
 
 The setup process began with installing the non-desktop version of the latest RaspberryPi OS onto the Pi. Following that, PiHole was installed on one device and PiVPN on the other.
