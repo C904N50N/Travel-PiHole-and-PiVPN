@@ -20,6 +20,12 @@ I began by gathering all the necessary equipment for this project:
 
 The setup process began with installing the non-desktop version of the latest RaspberryPi OS onto the Pi. Following that, PiHole was installed on one device and PiVPN on the other.
 
+When setting up the router for the most part it will come pre configured from the factory, I suggest changing the password and SSID to be more recognizable to you.
+
+After the router is set up and running we can start setting up PiHole and/or PiVPN now that we IPs that we can make static.
+
 ## PiHole
+
+
 
 ## PiVPN
