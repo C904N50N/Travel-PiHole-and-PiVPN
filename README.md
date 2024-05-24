@@ -26,6 +26,15 @@ After the router is set up and running we can start setting up PiHole and/or PiV
 
 ## PiHole
 
+To set up PiHole, all we need to do is run this command:
 
+_Insert Command Here_
+
+Then the installer will run through the setup.
+During the setup make sure to set a static IP on the router for the RaspberryPi.
+Once it has finsihed setting up, In the routers DHCP settings you need to set the DNS Server to to the RaspberryPis IP address you set earlier.
+After this the network should accessible and should be blocking ads.
+From here you can add more blocklists and configure other settings to your likings.
+Of course from here you can set up Unbound to act as a private DNS Server to increase your privacy even more.
 
 ## PiVPN
